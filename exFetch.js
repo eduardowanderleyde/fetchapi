@@ -1,7 +1,7 @@
 const btFetchDog = document.getElementById("btFetchDog");
 
 const fetchRandomDogImage = () => {
-  fetch("https://api.hgbrasil.com/weather?key=1b4800da&user_ip=remote", {
+  fetch("https://api.hgbrasil.com/weather?key=b19d19f4", {
     mode: "cors",
     headers: {
       "Access-Control-Allow-Origin": "*",
